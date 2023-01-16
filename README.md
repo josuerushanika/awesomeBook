@@ -62,7 +62,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-<!-- #### <a href="">[Live Demo Link](https://caren-koroeny.github.io/Awesome-books/)</a> -->
+#### <a href="">[Live Demo Link](https://josuerushanika.github.io/awesomeBook/)</a>
 
 
 
@@ -81,7 +81,7 @@ Clone this repository to your desired folder:
 
 
 ```sh
-#   git clone https://github.com/caren-koroeny/Awesome-Books.git
+  git clone https://github.com/josuerushanika/awesomeBook.git
 ```
 
 
@@ -97,17 +97,20 @@ Clone this repository to your desired folder:
 <a name="authors"></a>
 
 👤 **Caren Koroeny**
-👤 **Yordanos Temesgen**
+👤 **Josue Rushanika**
 
 __Caren Koroeny__
 - GitHub: [@githubhandle](https://github.com/Caren-Koroeny) 
 - Twitter: [@twitterhandle](https://twitter.com/handel)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/handel/)
 
-<!-- __Yordanos Temesgen__
-- GitHub: [@yordinia](https://github.com/yordinia)
-- Twitter: [@yordinia](https://twitter.com/yordinia)
-- LinkedIn: [Yordanos-Temesgen](https://linkedin.com/in/yordanos-temesgen-251b6a202 -->
+
+
+__Josue Rushanika__
+
+- GitHub: https://github.com/josuerushanika
+- Twitter: https://twitter.com/josuerushanika
+- LinkedIn: https://www.linkedin.com/in/josue-rushanika-336049b3/
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -155,7 +158,7 @@ If you like this project give me a star.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT] licensed.
+This project is [MIT](./LICENSE) licensed
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
