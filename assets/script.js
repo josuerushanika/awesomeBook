@@ -3,8 +3,8 @@
 
 const book = JSON.parse(localStorage.getItem('our-books')) || [];
 
-const inputTitle = document.querySelector('#text');
-const inputAuthor = document.querySelector('#txt');
+const inputTitle = document.querySelector('#texttitle');
+const inputAuthor = document.querySelector('#txtauthor');
 const myButton = document.querySelector('.btn-list');
 const list = document.getElementById('book-list');
 const books = document.querySelector('.books');
