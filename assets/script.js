@@ -9,7 +9,6 @@ const myButton = document.querySelector('.btn-list');
 const list = document.getElementById('book-list');
 const books = document.querySelector('.books');
 
-
 class Books {
   constructor(title, author) {
     this.title = title;
