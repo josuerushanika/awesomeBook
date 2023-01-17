@@ -13,6 +13,7 @@ function disp() {
   if (book.length === 0) {
     list.innerText = 'No Books To Display';
     return 0;
+    
   }
   list.innerHTML = '';
   let i = -1;
