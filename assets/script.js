@@ -8,6 +8,7 @@ const inputAuthor = document.querySelector('#txtauthor');
 const myButton = document.querySelector('.btn-list');
 const list = document.getElementById('book-list');
 const books = document.querySelector('.books');
+const time = document.querySelector('.time');
 
 class Books {
   constructor(title, author) {
