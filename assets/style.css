@@ -138,6 +138,7 @@ input {
   border: 2px solid black;
   text-transform: uppercase;
 }
+<<<<<<< HEAD
 
 .footer {
   margin-top: auto;
@@ -169,3 +170,5 @@ input {
   justify-content: flex-end;
   margin: 30px 5% 0 0;
 }
+=======
+>>>>>>> main
